@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie+Swash+Caps');
+=======
+>>>>>>> 8a236d49600e75351c5da34884ac5db46e9bcbb1
 /* review css syntax 
   selector {property: value;
             property: value;
@@ -8,6 +11,7 @@
 /* type selector */
   p { font-size: 1em; /*16px, ?pts, 100%, 1em*/
   line-height: 1.5em;
+<<<<<<< HEAD
   }
   
   figcaption {
@@ -55,4 +59,6 @@
   
   #details a:active {
     color: red;
+=======
+>>>>>>> 8a236d49600e75351c5da34884ac5db46e9bcbb1
   }
